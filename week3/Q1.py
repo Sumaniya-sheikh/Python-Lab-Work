@@ -1,9 +1,11 @@
-for i in range(1, 10):
-        print()
-        if i<=5:
-             for j in range(1, i+1):
-                                     print("*", end=" ")
-        else:         
-           for j in range(10-i):
-                                  print("*", end=" ")
-   
+# 1. Write a program to print the following pattern using the for loop:
+# 5 4 3 2 1
+# 4 3 2 1
+# 3 2 1
+# 2 1
+# 1
+
+for i in range(5,0,-1):
+    for j in range(i,0,-1):
+        print(j, end=" ")
+    print()
