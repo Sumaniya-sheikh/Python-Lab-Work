@@ -1,3 +1,5 @@
+# 3. Write a program to display all prime numbers within a range.
+
 start=int(input("enter the starting number = "))
 end=int(input("enter the end range = "))
 for num in range(start, end+1):
