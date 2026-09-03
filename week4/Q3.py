@@ -5,6 +5,7 @@ li= list(map(int,input("enter a list of integer = ").split()))
 print(list(map(lambda x:x**2,li)))
 
 
+
 def square(x):
     return x**2
 

@@ -2,11 +2,7 @@
 
 def cal_sum_sub(a,b):
     return a+b, a-b
-   # sub= a-b
-   # return add, sub
 
 a,b = map(int,input("enter first number = ").split())
-# b = int(input("enter second number = "))
 
-# add,sub =cal_sum_sub(a,b)
 print(cal_sum_sub(a,b))
