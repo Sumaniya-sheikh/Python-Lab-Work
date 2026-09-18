@@ -11,4 +11,4 @@ for num in range(start, end+1):
             is_prime=False
             break
     if is_prime:
-        print(num)
+        print("prime number:", num)

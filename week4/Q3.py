@@ -6,9 +6,9 @@ print(list(map(lambda x:x**2,li)))
 
 
 
-def square(x):
-    return x**2
+# def square(x):
+#     return x**2
 
-num= list(map(int,input("enter list = ").split()))
-result =list(map(square,num))
-print(result)
+# num= list(map(int,input("enter list = ").split()))
+# result =list(map(square,num))
+# print(result)

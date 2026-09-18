@@ -7,4 +7,4 @@
 #     num=num//10
 # print(sum)
 sum=sum(map(int,input("enter a integer = ")))
-print(sum)
+print("sum of the digits of a supplied integer = ",sum)

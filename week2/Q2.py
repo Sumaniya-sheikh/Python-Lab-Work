@@ -6,4 +6,4 @@ while num>0:
     count=count+1
     num=num//10
 
-print(count)
+print("Total number of digits = ", count)
