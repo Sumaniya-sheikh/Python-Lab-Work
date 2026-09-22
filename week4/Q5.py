@@ -1,4 +1,5 @@
 # 5. Write a program to count the number of occurrences of item 50 in the tuple tp1 = (50, 10, 60, 70, 50)
 tp1=(50,10,60,70,50)
+print("tuple = ",tp1)
 count=tp1.count(50)
-print("number of occurennce = ", count)
+print("number of occurrences = ", count)
