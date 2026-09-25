@@ -9,10 +9,9 @@ arr = np.array([
 print("Original Array:")
 print(arr)
 # a.	Case 1: Sort the array by the second row.
-
 index = np.argsort(arr[1])
 
-result = arr[:, index]
+result = arr[:,  index]
 
 print("Sorted by second row:")
 print(result)

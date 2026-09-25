@@ -1,4 +1,4 @@
-import secrets
+import random
 str= input("enter a string = ")
-charac= secrets.choice(str)
-print(charac)
+charac= random.choice(str)
+print("Random character : ", charac)
