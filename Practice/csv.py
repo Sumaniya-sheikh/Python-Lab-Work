@@ -22,6 +22,19 @@
 
 
 # x, y, z = int(input("x = ")), int(input("y = ")), int(input("z = "))
-x, y, z = input().split()
-x,y,z=int(x), int(y), int(z)
-print("x:", x, "y:", y, "z:", z)
+from numpy import rint
+
+
+# x, y, z = input().split()
+# x,y,z=int(x), int(y), int(z)
+# print("x:", x, "y:", y, "z:", z)
+
+# age = {'Alice' : 25, 'Bob' : 28, 'Alice' : 26}
+# print(age)
+# {'Bob': 30, 'Alice': 26}
+# print(age)
+
+age = {'Alice' : 25, 'Bob' :28} 
+age['Alice'] is 25
+age.get('Bob') 
+        # returns 28
