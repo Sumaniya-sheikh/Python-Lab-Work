@@ -1,0 +1,13 @@
+Q3: Create and Delete Directories
+
+Aim:
+To create and delete directories using mkdir and rmdir commands.
+
+Commands:
+
+mkdir myfolder
+
+rmdir myfolder
+
+Result:
+The directory was created and deleted successfully.

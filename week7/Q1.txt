@@ -1,0 +1,12 @@
+Aim:
+To study different types of Linux shells: sh, csh, ksh, and bash.
+
+Theory:
+
+sh (Bourne Shell): The original Unix shell used for executing commands and shell scripts.
+csh (C Shell): A shell with syntax similar to the C programming language.
+ksh (Korn Shell): An advanced shell based on sh, supporting scripting and command history.
+bash (Bourne Again Shell): An improved version of sh and one of the commonly used shells in Linux.
+
+Result:
+Different types of Linux shells were studied.

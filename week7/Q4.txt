@@ -1,0 +1,14 @@
+Change and Display Working Directory
+
+Aim:
+To study different types of Linux shells: sh, csh, ksh, and bash.
+To change and display the current working directory using cd and pwd commands.
+
+Theory:
+A shell is a command interpreter that provides an interface between the user and the operating system.
+
+Shell   Description
+sh      Bourne Shell; basic Unix shell.
+csh     C Shell; similar to C programming language syntax.
+ksh     Korn Shell; advanced shell based on sh.
+bash    Bourne Again Shell; improved version of sh. 

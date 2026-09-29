@@ -1,0 +1,15 @@
+2. Copy, move, and remove files using cp, mv, and rm commands.
+
+Aim:
+To copy, move, and remove files using cp, mv, and rm commands.
+
+Commands:
+
+cp file1.txt file2.txt
+
+mv file1.txt file2.txt
+
+rm file1.txt
+
+Result:
+Files were successfully copied, moved, and removed using cp, mv, and rm commands.
