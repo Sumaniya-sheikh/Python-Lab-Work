@@ -1,3 +1,7 @@
+# 7. Write a Python program to create a list of user’s supplied distinct integers having even number of
+# elements. The program further creates two lists of equal lengths based on the original list, where first
+# list is having all elements less than elements of second list. Display both the lists
+
 num= list(map(int, input("Enter distinct integers even count =  ").split()))
 
 if len(num) % 2 == 0 and len(num) == len(set(num)):
